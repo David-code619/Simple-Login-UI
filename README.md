@@ -1,2 +1,2 @@
 # Simple-Login-UI
-This is my README file
+This application is a simple login ui created using HTML, CSS and Javascript.
